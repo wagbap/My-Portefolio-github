@@ -66,9 +66,7 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
     <td></td>
   </tr>
   <tr>
-    <td>
-      <img style="filter: drop-shadow(2px 0px 5px rgb(0, 110, 255));" align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java icon">
-    </td>
+
     <td>
       <img style="filter: drop-shadow(0 0 5px rgb(0, 140, 255)) drop-shadow( 0 1px 1px black);" align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon">
     </td>
