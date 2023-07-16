@@ -1,13 +1,14 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
+<h2> Hi, there 👋 </h2>
+<p><em> I'm Wagner Baptista, I'm 32 years old </br>
+</em></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" style="border-radius:50%">
+I'm from Portugal. </br>
+I'm a Softaware Developer.</br>
+I was a student Computer Enginner
 
-
-## ⬛️ Hi there 👋
-
-#### I'm Wagner Baptista, I'm 32 years old
-#### I'm from Portugal
-#### I'm a Java Back-end Developer
-#### I was a student Computer Enginner at 
+Avoid spending too much time on Youtube or other socials media Entertainment☠️ </br>
 
 ## ⬛️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=JailsonA&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
