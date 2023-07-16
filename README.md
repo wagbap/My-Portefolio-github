@@ -7,6 +7,20 @@ I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
 I was a student Computer Enginner</br>
 
+
+# My Portfolio
+
+Welcome to my portfolio! Below are some of my notable projects:
+
+- [Project 1](https://github.com/username/project1): Description of project 1.
+- [Project 2](https://github.com/username/project2): Description of project 2.
+- [Project 3](https://github.com/username/project3): Description of project 3.
+
+Feel free to explore these projects and check out the code and documentation. If you have any questions or feedback, please don't hesitate to reach out.
+
+Happy coding! 😄
+
+
 I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br></br></br></br></br></br></br></br></br></br>
 
 ##   📊 GitHub Stats:
