@@ -14,17 +14,13 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
 ![](https://github-readme-stats.vercel.app/api?username=wagbap&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=JailsonA&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <br><br>
 
-----
 
-#### ✉️ Contact
+##   ✉️ Contact
 
 <a href="https://www.linkedin.com/in/wagbap/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
 </a>
 
-----
-
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
  
 ## ✨ Skills:
 
