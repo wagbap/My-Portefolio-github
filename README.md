@@ -8,13 +8,14 @@ I'm a Softaware Developer.</br>
 I was a student Computer Enginner</br>
 
 
-# My Portfolio
+<h2>💻 My Portfolio </h2>
 
 Welcome to my portfolio! Below are some of my notable projects:
 
-1- [Dashboard] <a href="(https://github.com/username/project2):" >Repository </a> - HTML5, CSS e JS
-2- [Sistema Financeiro]  <a href="(https://github.com/username/project2):" >Repository </a>  - React
-2- [Sistema Financeiro]  <a href="(https://github.com/username/project2):" >Repository </a>  - React
+1- [Dashboard] <a href="(https://github.com/username/project2):" >Repository </a> - HTML5, CSS e JS</br>
+2- [Sistema Financeiro]  <a href="(https://github.com/username/project2):" >Repository </a>  - React</br>
+2- [Sistema Financeiro]  <a href="(https://github.com/username/project2):" >Repository </a>  - React</br>
+
 
 Feel free to explore these projects and check out the code and documentation. If you have any questions or feedback, please don't hesitate to reach out.
 
