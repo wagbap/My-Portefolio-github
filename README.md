@@ -90,8 +90,9 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
     </td>
     <td></td>
     <td>
-      <img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 1px black);" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
-    </td>
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel icon">
+</td>
+
     <td></td>
   </tr>
 </table>
