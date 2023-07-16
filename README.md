@@ -65,37 +65,31 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
   </tr>
   <tr>
     <td></td>
-    <td><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon"></td>
+    <td>
+      <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon">
+    </td>
     <td>
       <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js icon">
     </td>
     <td></td>
   </tr>
   <tr>
-    <td>
-
-    </td>
+    <td></td>
     <td></td>
     <td>
       <img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 1px black);" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React icon">
     </td>
     <td></td>
   </tr>
-
-   <tr>
+  <tr>
     <td></td>
     <td></td>
     <td>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript icon">
+      <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript icon">
     </td>
     <td></td>
-     
   </tr>
-
-  
 </table>
-
-
 
 
 
