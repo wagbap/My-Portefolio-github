@@ -12,9 +12,9 @@ I was a student Computer Enginner</br>
 
 Welcome to my portfolio! Below are some of my notable projects:
 
-1- [Dashboard] Repository - (https://github.com/username/project1): <a href="teladvir.com" >Preview </a> 
-2- [Project 2](https://github.com/username/project2): Description of project 2.
-3- [Project 3](https://github.com/username/project3): Description of project 3.
+1- [Dashboard] <a href="(https://github.com/username/project2):" >Repository </a> - HTML5, CSS e JS
+2- [Sistema Financeiro]  <a href="(https://github.com/username/project2):" >Repository </a>  - React
+2- [Sistema Financeiro]  <a href="(https://github.com/username/project2):" >Repository </a>  - React
 
 Feel free to explore these projects and check out the code and documentation. If you have any questions or feedback, please don't hesitate to reach out.
 
