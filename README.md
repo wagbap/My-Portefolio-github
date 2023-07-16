@@ -7,7 +7,7 @@ I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
 I was a student Computer Enginner</br>
 
-I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br></br></br></br></br></br>
+I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br></br></br></br></br></br></br></br></br></br>
 
 ##   📊 GitHub Stats:
 
