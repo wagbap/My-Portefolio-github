@@ -28,16 +28,13 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
+ 
 ## ⬛️ Skills:
 |BACK-END |FRONT-END  | FRAMEWORKS | CONTAINER AND ORCHESTRATORS |
 | --- | --- | --- | --- |
-|![C# icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg){height="50" width="60"}  | ![HTML icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){height="50" width="60"} | ![Laravel icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg){height="50" width="60"} | ![Docker icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg){height="50" width="60"} |
-|![Python icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg){height="50" width="60"} | ![CSS3 icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){height="50" width="60"}| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg){height="50" width="60"} | ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg){height="50" width="60"} |
-|![JavaScript icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){height="50" width="60"} | ![Flask icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg){height="50" width="60"} |
-
-
-
-
+|![C# icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg){height="30" width="40"}  | ![HTML icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){height="30" width="40"} | ![Laravel icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg){height="30" width="40"} | ![Docker icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg){height="30" width="40"} |
+|![Python icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg){height="30" width="40"} | ![CSS3 icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){height="30" width="40"}| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg){height="30" width="40"} | ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg){height="30" width="40"} |
+|![JavaScript icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){height="30" width="40"} | ![Flask icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg){height="30" width="40"} |
 
 
 
