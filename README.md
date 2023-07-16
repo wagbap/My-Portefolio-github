@@ -12,8 +12,12 @@ I was a student Computer Enginner</br>
 
 I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br>
 
-## [![Nice Icon](https://img.shields.io/badge/Nice-%F0%9F%91%8D-blueviolet)](https://github.com/)
- GitHub Stats:
+##  GitHub Stats:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Software Icon" width="100" height="100">
+</p>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=wagbap&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=JailsonA&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <br><br>
 
