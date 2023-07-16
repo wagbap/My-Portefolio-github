@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 
-### Hi there 👋
-## ⬛️ GitHub Stats:
+
+### ⬛️ Hi there 👋
 
 #### I'm Wagner Baptista, I'm 32 years old
 #### I'm from Portugal
