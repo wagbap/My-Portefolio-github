@@ -85,7 +85,9 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
    <tr>
     <td></td>
     <td></td>
-    <td> /td>
+    <td>
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript icon">
+    </td>
     <td></td>
      
   </tr>
