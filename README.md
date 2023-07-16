@@ -55,16 +55,16 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
     <td>
       <img style="filter: drop-shadow(2px 0px 5px rgb(240, 255, 0)) drop-shadow( 0px 2px 5px rgb(0, 140, 255));" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP icon">
     </td>
-    <td>
-      <img style="filter: drop-shadow(0 0 5px rgb(0, 140, 255)) drop-shadow( 0 1px 1px black);" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon">
-    </td>
+    <td></td>
     <td>
       <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel icon">
     </td>
     <td></td>
   </tr>
   <tr>
-    <td><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon"></td>
+    <td>
+      <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon">
+    </td>
     <td></td>
     <td>
       <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js icon">
@@ -72,9 +72,7 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
     <td></td>
   </tr>
   <tr>
-    <td>
-     
-    </td>
+    <td></td>
     <td></td>
     <td>
       <img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 1px black);" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React icon">
