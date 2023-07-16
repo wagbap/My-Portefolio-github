@@ -6,9 +6,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" style="border-radius:50%">
 I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
-I was a student Computer Enginner
+I was a student Computer Enginner</br>
 
-Avoid spending too much time on Youtube or other socials media Entertainment☠️ </br>
+I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br>
 
 ## ⬛️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=JailsonA&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
