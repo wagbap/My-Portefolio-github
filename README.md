@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="480" height="360" class="giphy-embed" style="border-radius:50%" allowFullScreen>
 I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
-I was a student Computer Enginner</br>
+I studied Computer Enginner</br>
 
 
 <h2>💻 My Portfolio </h2>
