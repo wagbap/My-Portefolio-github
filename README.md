@@ -8,7 +8,7 @@ I'm a Softaware Developer.</br>
 I studied Computer Enginner</br>
 
 
-<h2>💻 My Portfolio </h2>
+<h2>💼 My Portfolio </h2>
 
 Welcome to my portfolio! Below are some of my notable projects:
 
