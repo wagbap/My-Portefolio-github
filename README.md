@@ -59,7 +59,7 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
       <img style="filter: drop-shadow(0 0 5px rgb(0, 140, 255)) drop-shadow( 0 1px 1px black);" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon">
     </td>
     <td>
-      <img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 1px black);" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel icon">
     </td>
     <td></td>
   </tr>
@@ -76,7 +76,7 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
   </tr>
   <tr>
     <td>
-      <img style="filter: drop-shadow(2px 0px 5px rgb(0, 110, 255));" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET icon">
+
     </td>
     <td></td>
 <td>
@@ -91,7 +91,9 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
     </td>
     <td></td>
     <td>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel icon">
+      <img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 1px black);" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+      
+
 </td>
 
     <td></td>
