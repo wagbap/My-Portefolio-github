@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
-<h2> Hi, there 👋 </h2>
+<h2>💻 Hi, there 👋 </h2>
 <p><em> I'm Wagner Baptista, I'm 32 years old </br>
 </em></p>
 <img align='right' src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="480" height="360" class="giphy-embed" style="border-radius:50%" allowFullScreen>
@@ -12,7 +12,7 @@ I was a student Computer Enginner</br>
 
 I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br>
 
-##  GitHub Stats:
+##   📊 GitHub Stats:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Software Icon" width="100" height="100">
 </p>
@@ -23,9 +23,9 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
 
 ----
 
-#### Contact
+#### ✉️ Contact
 
-<a href="https://www.linkedin.com/in/leonardodemetrio/" target="_blank">
+<a href="https://www.linkedin.com/in/wagbap/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
 </a>
 
@@ -33,7 +33,7 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
  
-## ⬛️ Skills:
+## ✨ Skills:
 
 <table>
   <tr>
