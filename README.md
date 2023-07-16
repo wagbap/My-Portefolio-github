@@ -10,10 +10,9 @@
 
 ---
 
-<div>
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovd100&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+## ⬛️ GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=JailsonA&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<a href="http://www.github.com/JailsonA"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JailsonA&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
 
 ----
 
