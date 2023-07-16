@@ -65,7 +65,7 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon"></td>
     <td>
       <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js icon">
     </td>
