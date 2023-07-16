@@ -7,7 +7,7 @@ I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
 I was a student Computer Enginner</br>
 
-I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br>
+I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br></br>
 
 ##   📊 GitHub Stats:
 
@@ -20,7 +20,7 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
 <a href="https://www.linkedin.com/in/wagbap/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
 </a>
-
+</br></br>
  
 ## ✨ Skills:
 
