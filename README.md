@@ -26,7 +26,7 @@ Feel free to explore these projects and check out the code and documentation. If
 Happy coding! 😄
 
 
-I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br></br></br></br>
+I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br></br>
 
 ##   📊 GitHub Stats:
 
