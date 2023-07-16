@@ -26,6 +26,7 @@
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
+## ⬛️ Skills:
 |BACK-END |FRONT-END  | FRAMEWORKS | CONTAINER <br/>AND<br/> ORCHESTRATORS | Game Engines
 | --- | --- | --- | --- | ---
 |<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java icon">  | &nbsp;<img style="filter: drop-shadow(0 0 5px rgb(255, 153, 0)) drop-shadow( 0 1px 1px black);" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML icon"> | &nbsp;&nbsp;&nbsp;<img style="filter: drop-shadow(0 0 2px rgb(25, 255, 255)) drop-shadow( 0 1px 3px black);" align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Springboot icon">| &nbsp;<img style="filter: drop-shadow(0 0 2px rgb(0, 162, 255)) drop-shadow( 0 1px 1px black); " align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker icon">|<img align="center" heigth="50" width="60" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"> | [comment]: <> (Primeira linha-----------------------------------------------------------------------------------------)
