@@ -1,21 +1,15 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 <h2>💻 Hi, there 👋 </h2>
-<p>I'm Wagner Baptista, I'm 32 years old </br></p>
+<p><em>I'm Wagner Baptista, I'm 32 years old </em></br></p>
 <img align='right' src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="480" height="360" class="giphy-embed" style="border-radius:50%" allowFullScreen>
 I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
 I was a student Computer Enginner</br>
 
-
-
 I'm excited to share my projects, collaborate with fellow developers, and contribute to the vibrant GitHub community.</br>
 
 ##   📊 GitHub Stats:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Software Icon" width="100" height="100">
-</p>
-
 
 ![](https://github-readme-stats.vercel.app/api?username=wagbap&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=JailsonA&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <br><br>
