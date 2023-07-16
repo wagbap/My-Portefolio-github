@@ -3,7 +3,7 @@
 <h2> Hi, there 👋 </h2>
 <p><em> I'm Wagner Baptista, I'm 32 years old </br>
 </em></p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" style="border-radius:50%">
+<img align='right' src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="480" height="360" class="giphy-embed" style="border-radius:50%" allowFullScreen>
 I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
 I was a student Computer Enginner</br>
