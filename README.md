@@ -73,7 +73,7 @@ I'm excited to share my projects, collaborate with fellow developers, and contri
   </tr>
   <tr>
     <td>
-      <img style="filter: drop-shadow(2px 0px 5px rgb(0, 110, 255));" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET icon">
+
     </td>
     <td></td>
     <td>
