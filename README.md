@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 <h2>💻 Hi, there 👋 </h2>
-<p><em> I'm Wagner Baptista, I'm 32 years old </br>
-</em></p>
+<p>I'm Wagner Baptista, I'm 32 years old </br></p>
 <img align='right' src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="480" height="360" class="giphy-embed" style="border-radius:50%" allowFullScreen>
 I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
