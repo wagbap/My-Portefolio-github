@@ -18,7 +18,7 @@ Welcome to my portfolio! Below are some of my notable projects:
 4- [To-do-List]  <a href="https://github.com/username/project2" style="color:orange">Repository 4 </a>  - Laravel 8</br>
 5- [Jogo da Velha]  <a href="https://github.com/username/project2" style="color:orange">Repository 5 </a>  - Pyton</br>
 6- [Autentication System WebAPI]  <a href="https://github.com/username/project2" style="color:orange">Repository 6 </a> -  Java</br>
-7- [Ecommerce Platform WebAPI]  <a href="https://github.com/username/project2" style="color:orange">Repository 7 </a> -  C#</br>
+7- [Ecommerce Platform WebAPI]  <a href="https://github.com/username/project2" style="color:orange">Repository 7 </a> -  C# e JS</br>
 
 
 Feel free to explore these projects and check out the code and documentation. If you have any questions or feedback, please don't hesitate to reach out.
