@@ -13,8 +13,7 @@ I studied Computer Enginner</br>
 Welcome to my portfolio! Below are some of my notable projects:
 
 1- [Dashboard] <a href="https://github.com/username/project2" >Repository 1  </a> - HTML5, CSS3 e JS</br>
-2- [Sistema Financeiro]   <a href="https://github.com/username/project2" style="color:blue">Repository 2 </a>  - React & Asp.Net Core API
-CodAffection
+2- [Sistema Financeiro]   <a href="https://github.com/username/project2" style="color:blue">Repository 2 </a>  - React & C# WebAPI
 </br>
 3- [Website] <a href="https://github.com/username/project2" style="color:orange">Repository 3 </a> - PHP Object-Oriented </br>
 4- [To-do-List]  <a href="https://github.com/username/project2" style="color:orange">Repository 4 </a>  - Laravel 8</br>
