@@ -17,8 +17,7 @@ Welcome to my portfolio! Below are some of my notable projects:
 3- [Lelahomelife App] <a href="https://github.com/username/project2" style="color:orange">Repository 3 </a> - PHP Pure JS Ajax  </br>
 4- [Contact Manager]  <a href="https://github.com/username/project2" style="color:orange">Repository 4 </a>  - Laravel 8</br>
 5- [Ecommerce Platform]  <a href="https://github.com/username/project2" style="color:orange">Repository 5 </a>  - PHP Pure JS Ajax  </br>
-6- [Autentication System WebAPI]  <a href="https://github.com/username/project2" style="color:orange">Repository 6 </a> -  Java</br>
-7- [Ecommerce Platform WebAPI]  <a href="https://github.com/username/project2" style="color:orange">Repository 7 </a> -  C# e JS</br>
+
 
 
 Feel free to explore these projects and check out the code and documentation. If you have any questions or feedback, please don't hesitate to reach out.
