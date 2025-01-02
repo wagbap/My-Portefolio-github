@@ -12,9 +12,8 @@ I studied Computer Enginner</br>
 
 Welcome to my portfolio! Below are some of my notable projects:
 
-1- [Sistema Financeiro] <a href="https://github.com/username/project2" style="color:blue">Repository 2 </a>  - C# WebAPI & React 
-2- [Job Portal]   <a href="https://github.com/username/project2" style="color:blue">Repository 2 </a>  -  WebAPI & Angular
-</br>
+1- [Sistema Financeiro] <a href="https://github.com/username/project2" style="color:blue">Repository 1 </a>  - C# WebAPI & React   </br>
+2- [Job Portal]   <a href="https://github.com/username/project2" style="color:blue">Repository 2 </a>  -  WebAPI & Angular</br>
 3- [Lelahomelife App] <a href="https://github.com/username/project2" style="color:orange">Repository 3 </a> - PHP Pure JS Ajax  </br>
 4- [Contact Manager]  <a href="https://github.com/username/project2" style="color:orange">Repository 4 </a>  - Laravel 8</br>
 5- [Ecommerce Platform]  <a href="https://github.com/username/project2" style="color:orange">Repository 5 </a>  - PHP Pure JS Ajax  </br>
