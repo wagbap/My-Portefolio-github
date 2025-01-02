@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 <h2>💻 Hi, there 👋 </h2>
-<p><em>I'm Wagner Baptista, I'm 32 years old </em></br></p>
+<p><em>I'm Wagner Baptista, I'm 34 years old </em></br></p>
 <img align='right' src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="480" height="360" class="giphy-embed" style="border-radius:50%" allowFullScreen>
 I'm from Portugal. </br>
 I'm a Softaware Developer.</br>
@@ -12,12 +12,12 @@ I studied Computer Enginner</br>
 
 Welcome to my portfolio! Below are some of my notable projects:
 
-1- [Dashboard] <a href="https://github.com/username/project2" >Repository 1  </a> - HTML5, CSS3 e JS</br>
-2- [Sistema Financeiro]   <a href="https://github.com/username/project2" style="color:blue">Repository 2 </a>  - React & C# WebAPI
+1- [Sistema Financeiro] <a href="https://github.com/username/project2" style="color:blue">Repository 2 </a>  - C# WebAPI & React 
+2- [Job Portal]   <a href="https://github.com/username/project2" style="color:blue">Repository 2 </a>  -  WebAPI & Angular
 </br>
-3- [Website] <a href="https://github.com/username/project2" style="color:orange">Repository 3 </a> - PHP Object-Oriented </br>
-4- [To-do-List]  <a href="https://github.com/username/project2" style="color:orange">Repository 4 </a>  - Laravel 8</br>
-5- [Jogo da Velha]  <a href="https://github.com/username/project2" style="color:orange">Repository 5 </a>  - Pyton</br>
+3- [Lelahomelife App] <a href="https://github.com/username/project2" style="color:orange">Repository 3 </a> - PHP Pure JS Ajax  </br>
+4- [Contact Manager]  <a href="https://github.com/username/project2" style="color:orange">Repository 4 </a>  - Laravel 8</br>
+5- [Ecommerce Platform]  <a href="https://github.com/username/project2" style="color:orange">Repository 5 </a>  - PHP Pure JS Ajax  </br>
 6- [Autentication System WebAPI]  <a href="https://github.com/username/project2" style="color:orange">Repository 6 </a> -  Java</br>
 7- [Ecommerce Platform WebAPI]  <a href="https://github.com/username/project2" style="color:orange">Repository 7 </a> -  C# e JS</br>
 
